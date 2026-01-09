@@ -1,0 +1,12 @@
+# Mac system files
+.DS_Store
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.venv/
+env/
+.env
