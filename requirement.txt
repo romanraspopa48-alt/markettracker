@@ -1,7 +1,0 @@
-streamlit
-yfinance
-pandas
-numpy
-plotly
-streamlit-autorefresh
-streamlit-js-eval
